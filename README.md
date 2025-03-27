@@ -1,4 +1,5 @@
-Bank System with Encapsulation in Java
+Bank System with Encapsulation in Java for AP course
+Question creator: Kiana Pahlevan 
 
 A simple banking system implementation using object-oriented programming and encapsulation principles.
 
